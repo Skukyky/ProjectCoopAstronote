@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VOIPLIB",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Cookiecraft",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VOIPLIB",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
